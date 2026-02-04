@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-openai  # si tu veux utiliser OpenAI
+langchain-ollama  # si tu préfères un modèle local
+PyPDF2
+chromadb
+tiktoken
+
+# pour la conversion des fichiers en pdf
+# pptxtopdf
+# docx2pdf
+
+# pip install -r requirements.txt

@@ -1,0 +1,25 @@
+# Environment
+.env
+venv/
+env/
+
+# Vector store
+vectorstore_db/
+vectorstore_db_test/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data
+data/pdf/*.pdf

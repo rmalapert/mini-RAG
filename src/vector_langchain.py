@@ -3,7 +3,7 @@ from langchain_community.vectorstores import Chroma
 from langchain_openai import AzureOpenAIEmbeddings
 import os
 from dotenv import load_dotenv
-from pdf_loader import load_pdf_with_fallback_ocr
+from src.pdf_loader import load_pdf_with_fallback_ocr
 
 
 load_dotenv()
